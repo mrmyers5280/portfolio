@@ -79,7 +79,7 @@
 .portfolio-navigation-row .is-active:after {
   content: "";
   width: 70%;
-  height: 2px;
+  height: 8px;
   display: block;
   position: absolute;
   bottom: 0;
@@ -170,6 +170,6 @@ img.article-image {
 }
 
 footer {
-  background-image: url(images/footer-background.png);
+  /*background-image: url(images/footer-background.png);*/
   background-size: cover;
 }
